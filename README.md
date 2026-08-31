@@ -1,16 +1,26 @@
-## Hi there 👋
+# Mustafa Nalbantli
 
-<!--
-**mnalbantli/mnalbantli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst (M.S.), focused on retail and QSR, where messy transaction 
+data and real churn meet. I build pipelines that tell the truth 
+about the data, even when the truth is "we don't know."
 
-Here are some ideas to get you started:
+I've caught a target-leakage bug before it corrupted a churn model, traced 
+a misleading dashboard number back to a population mismatch, and 
+killed a campaign "lift" finding once it didn't survive a significance 
+test. I'd rather ship something smaller and correct than something 
+impressive and wrong.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Work
+
+### [Marketplace Seller Risk & Retention Analytics](link)
+B2B seller churn on a real marketplace. Every null is disclosed, not 
+imputed — including a funnel-attribution gap I found was 3x smaller than 
+the platform's own documentation claimed. dbt · Databricks · CI-tested · 
+[live dashboard](tableau-link)
+
+### [Mean Mug](link)
+QSR customer retention and pricing analytics. RFM, cohort retention, LTV — 
+and a promotional "lift" claim I retracted after the A/B test came back 
+non-significant.
+
+[LinkedIn](in/mustafanalbantli)
