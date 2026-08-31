@@ -16,7 +16,7 @@ impressive and wrong.
 B2B seller churn on a real marketplace. Every null is disclosed, not 
 imputed, including a funnel-attribution gap I found was 3x smaller than 
 the platform's own documentation claimed. dbt · Databricks · CI-tested · 
-[live dashboard](tableau-link)
+[live dashboard](https://public.tableau.com/app/profile/mustafa.nalbantli/viz/Dashboard_17881927167970/Dashboard?publish=yes)
 
 ### [Mean Mug](link)
 QSR customer retention and pricing analytics. RFM, cohort retention, LTV, 
