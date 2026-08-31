@@ -18,7 +18,7 @@ imputed, including a funnel-attribution gap I found was 3x smaller than
 the platform's own documentation claimed. dbt · Databricks · CI-tested · 
 [live dashboard](https://public.tableau.com/app/profile/mustafa.nalbantli/viz/Dashboard_17881927167970/Dashboard?publish=yes)
 
-### [Mean Mug](link)
+### [Retail Growth Analytics: Mean Mug Coffee](link)
 QSR customer retention and pricing analytics. RFM, cohort retention, LTV, 
 and a promotional "lift" claim I retracted after the A/B test came back 
 non-significant.
