@@ -23,4 +23,4 @@ QSR customer retention and pricing analytics. RFM, cohort retention, LTV,
 and a promotional "lift" claim I retracted after the A/B test came back 
 non-significant.
 
-[LinkedIn](in/mustafanalbantli)
+[LinkedIn](https://www.linkedin.com/in/mustafanalbantli/)
