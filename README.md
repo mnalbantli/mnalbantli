@@ -14,12 +14,12 @@ impressive and wrong.
 
 ### [Marketplace Seller Risk & Retention Analytics](link)
 B2B seller churn on a real marketplace. Every null is disclosed, not 
-imputed — including a funnel-attribution gap I found was 3x smaller than 
+imputed, including a funnel-attribution gap I found was 3x smaller than 
 the platform's own documentation claimed. dbt · Databricks · CI-tested · 
 [live dashboard](tableau-link)
 
 ### [Mean Mug](link)
-QSR customer retention and pricing analytics. RFM, cohort retention, LTV — 
+QSR customer retention and pricing analytics. RFM, cohort retention, LTV, 
 and a promotional "lift" claim I retracted after the A/B test came back 
 non-significant.
 
